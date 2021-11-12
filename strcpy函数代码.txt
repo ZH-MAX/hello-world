@@ -1,0 +1,7 @@
+char* StrCpy(char*src)
+{
+
+
+
+
+}
